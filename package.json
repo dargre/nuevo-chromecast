@@ -1,5 +1,5 @@
 {
-  "name": "@silvermine/videojs-chromecast",
+  "name": "@nuevo/videojs-chromecast",
   "version": "1.3.4",
   "description": "video.js plugin for casting to chromecast",
   "main": "src/js/index.js",
@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/silvermine/videojs-chromecast#readme",
   "dependencies": {
-    "webcomponents.js": "git+https://git@github.com/webcomponents/webcomponentsjs.git#v0.7.24"
+    "webcomponents.js": "git+https://git@github.com/webcomponents/polyfills/tree/master/packages/webcomponentsjs.git#v0.7.24"
   },
   "devDependencies": {
     "@babel/core": "7.20.7",
